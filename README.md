@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=40&duration=4000&pause=1000&color=23162D&random=false&width=700&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Mayuresh+Kumbar)](https://git.io/typing-svg)
 
+<div align="center"> <img src=""> </div>
+
 <div size='20px'> Hi! My name is Mayuresh Kumbar. Thank You for taking the time to view my GitHub Profile! 
 </div>
 
