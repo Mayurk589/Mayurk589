@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mayuresh Kumbar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=40&duration=4000&pause=1000&color=23162D&random=false&width=700&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Mayuresh+Kumbar)](https://git.io/typing-svg)
 
-<div align="center"> <img src=""> </div>
+<div size='20px'> Hi! My name is Mayuresh Kumbar. Thank You for taking the time to view my GitHub Profile! 
+</div>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurk589&label=Profile%20views&color=0e75b6&style=flat" alt="mayurk589" /> </p>
+
+
+- 🌱 I’m currently learning **React & Android app development**
 
 - 👨‍💻 Check out my portfolio : [https://mayureshkumbar-portfolio-site.netlify.app/](https://mayureshkumbar-portfolio-site.netlify.app/)
+
+- 📫 How to reach me : **mayurkumbar589@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
