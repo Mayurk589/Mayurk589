@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=40&duration=4000&pause=1000&color=23162D&random=false&width=700&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Mayuresh+Kumbar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=40&duration=4000&pause=1000&color=AB0000&random=false&width=700&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Mayuresh+Kumbar.)](https://git.io/typing-svg)
 
  <h3>A passionate frontend developer from BEC,  Thank You for taking the time to view my GitHub Profile! </h3>
 <div> <img src="eatsleep.jpg"> </div>
