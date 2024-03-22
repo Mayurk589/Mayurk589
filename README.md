@@ -6,13 +6,15 @@
 <h2> About Me </h2>
 <img width="400" align="right" alt="Github" src="coding.gif" />
 
-- 🌱  **I’m currently a final year B.E student at Basaveshwar Engineering College.**
+- 🔭  **I’m currently a final year B.E student at Basaveshwar Engineering College.**
  
 - 🌱 I’m currently learning **React & Android app development.**
 
 - 👨‍💻 Check out my portfolio : [https://mayureshkumbar-portfolio-site.netlify.app/](https://mayureshkumbar-portfolio-site.netlify.app/)
 
 - 📫 How to reach me : **mayurkumbar589@gmail.com**
+  <br>
+   <br> <br> <br> <br> <br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
