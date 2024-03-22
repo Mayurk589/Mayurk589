@@ -4,9 +4,10 @@
 <div> <img src="eatsleep.jpg"> </div>
 
 <h2> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="400" align="right" alt="Github" src="coding.gif" />
 
-
+- 🌱  **I’m currently a final year B.E student at Basaveshwar Engineering College.**
+ 
 - 🌱 I’m currently learning **React & Android app development.**
 
 - 👨‍💻 Check out my portfolio : [https://mayureshkumbar-portfolio-site.netlify.app/](https://mayureshkumbar-portfolio-site.netlify.app/)
