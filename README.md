@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=40&duration=4000&pause=1000&color=AB0000&random=false&width=700&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Mayuresh+Kumbar.)](https://git.io/typing-svg)
 
- <h3>A passionate frontend developer from BEC,  Thank You for taking the time to view my GitHub Profile! </h3>
+ <h3>A passionate frontend developer from India,  Thank You for taking the time to view my GitHub Profile! </h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurk589&label=Profile%20views&color=0e75b6&style=flat" alt="mayurk589" /> </p>
 <div> <img src="eatsleep.jpg"> </div>
 <h2> About Me </h2>
