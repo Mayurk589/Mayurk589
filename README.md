@@ -6,7 +6,7 @@
 <h2> About Me </h2>
 <img width="400" align="right" alt="Github" src="coding.gif" />
 
-- 🔭  **I’m currently a final year B.E student at Basaveshwar Engineering College.**
+- 🔭  **I’m completed Bachelor of Engineering at Basaveshwar Engineering College.**
  
 - 🌱 I’m currently learning **React & Android app development.**
 
